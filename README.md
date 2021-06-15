@@ -3,6 +3,6 @@ A python based project to visualize India's (also state-wise) Covid-19 cases, re
 
 For snapshots of the completed project, refer: <https://github.com/advikmaniar/Covid-19-Data-Dashboard/tree/main/Snapshots>
 
-![Uploading image.png…]()
+
 
 
